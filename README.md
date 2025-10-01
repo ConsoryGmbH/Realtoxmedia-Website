@@ -1,13 +1,11 @@
-# Realtoxmedia Kundenportal – Bug Tracker  
+# Realtoxmedia - Bug Tracker  
 
-Willkommen im offiziellen **Bug- und Issue-Repository** für das Realtoxmedia Kundenportal.  
-Hier können Fehler gemeldet, Vorschläge eingereicht und der Status offener Issues verfolgt werden.  
+Willkommen im offiziellen **Bug- und Issue-Repository** für das Realtoxmedia Kundenportal. Hier können Fehler gemeldet, Vorschläge eingereicht und der Status offener Issues verfolgt werden.  
 
 ---
 
 ## 🚀 Zweck dieses Repositories  
-Dieses Repository dient ausschließlich zur **Fehlerdokumentation und Nachverfolgung**.  
-Der Quellcode des Kundenportals ist **nicht öffentlich verfügbar**.  
+Dieses Repository dient ausschließlich zur **Fehlerdokumentation und Nachverfolgung**. Der Quellcode des Kundenportals ist **nicht öffentlich verfügbar**.  
 
 ---
 
